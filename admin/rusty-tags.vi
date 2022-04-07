@@ -1,0 +1,459 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+APP	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^static APP: OnceCell<Fragile<Application>> = OnceCell::new();$/;"	v
+AccelsPlus	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^pub trait AccelsPlus {$/;"	i
+ActionGroupName	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^pub trait ActionGroupName {$/;"	i
+ActionName	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^pub trait ActionName {$/;"	i
+ActionablePlus	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^pub trait ActionablePlus {$/;"	i
+Add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    Add,$/;"	e	enum:ChangeType
+Add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    Add,$/;"	e	enum:ChangeType
+AppModel	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^impl AppUpdate for AppModel {$/;"	c
+AppModel	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^impl Model for AppModel {$/;"	c
+AppModel	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^struct AppModel {$/;"	s
+AppMsg	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^enum AppMsg {$/;"	g
+AppUpdate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait AppUpdate: Model {$/;"	i
+AppWidgets	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^impl Widgets<AppModel, ()> for AppWidgets {$/;"	c
+Application	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^type Application = adw::Application;$/;"	t
+Application	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^type Application = gtk::Application;$/;"	t
+AsyncComponentUpdate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait AsyncComponentUpdate<ParentModel: Model>: Model {$/;"	i
+AsyncRelmWorker	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^impl<Model, ParentModel> AsyncRelmWorker<Model, ParentModel>$/;"	c
+AsyncRelmWorker	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^pub struct AsyncRelmWorker<Model, ParentModel>$/;"	s
+Borrow	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    Borrow(BorrowError),$/;"	e	enum:MicroComponentError
+BorrowMut	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    BorrowMut(BorrowMutError),$/;"	e	enum:MicroComponentError
+Box	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryListView<Widget> for gtk::Box$/;"	c
+Box	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::Box$/;"	c
+BoxExt	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    trait BoxExt {$/;"	i	module:tests
+Carousel	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryView<Widget> for adw::Carousel$/;"	c
+Change	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl Change {$/;"	c
+Change	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^struct Change {$/;"	s
+ChangeType	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^enum ChangeType {$/;"	g
+ChangeType	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^enum ChangeType {$/;"	g
+ChangeType	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl ChangeType {$/;"	c
+ComponentUpdate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait ComponentUpdate<ParentModel: Model>: Model {$/;"	i
+Components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    type Components = ();$/;"	t	implementation:Model
+Components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^impl<ParentModel: Model> Components<ParentModel> for () {$/;"	c
+Components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Components: Components<Self>;$/;"	t	interface:Model
+Components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait Components<ParentModel: ?Sized + Model> {$/;"	i
+Components	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    type Components = ();$/;"	t	implementation:AppModel
+Data	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    type Data;$/;"	t	interface:MicroModel
+Decrement	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    Decrement,$/;"	e	enum:AppMsg
+DrawContext	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^impl Deref for DrawContext {$/;"	c
+DrawContext	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^impl DrawContext {$/;"	c
+DrawContext	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^impl Drop for DrawContext {$/;"	c
+DrawContext	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^pub struct DrawContext {$/;"	s
+DrawHandler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^impl DrawHandler {$/;"	c
+DrawHandler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^pub struct DrawHandler {$/;"	s
+DynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl Clone for DynamicIndex {$/;"	c
+DynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl DynamicIndex {$/;"	c
+DynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^pub struct DynamicIndex {$/;"	s
+EmptyType	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^impl EmptyType for () {}$/;"	c
+EmptyType	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^pub trait EmptyType {}$/;"	i
+Factory	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        type Factory = FactoryVec<Self>;$/;"	t	implementation:tests::TestData
+Factory	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Factory: Factory<Self, Self::View>;$/;"	t	interface:FactoryPrototype
+Factory	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub trait Factory<Data, View>$/;"	i
+FactoryListView	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub trait FactoryListView<Widget>$/;"	i
+FactoryPrototype	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub trait FactoryPrototype: Sized {$/;"	i
+FactoryVec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^impl<Data, View> Factory<Data, View> for FactoryVec<Data>$/;"	c
+FactoryVec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^impl<Data, View> FactoryVec<Data>$/;"	c
+FactoryVec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^impl<Data> FactoryVec<Data>$/;"	c
+FactoryVec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^pub struct FactoryVec<Data>$/;"	s
+FactoryVecDeque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl<Data, View> Factory<Data, View> for FactoryVecDeque<Data>$/;"	c
+FactoryVecDeque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl<Data, View> FactoryVecDeque<Data>$/;"	c
+FactoryVecDeque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl<Data> FactoryVecDeque<Data>$/;"	c
+FactoryVecDeque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^pub struct FactoryVecDeque<Data>$/;"	s
+FactoryView	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub trait FactoryView<Widget> {$/;"	i
+Fixed	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::Fixed$/;"	c
+FixedPosition	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^pub struct FixedPosition {$/;"	s
+FlowBox	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryListView<Widget> for gtk::FlowBox$/;"	c
+FlowBox	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::FlowBox$/;"	c
+Grid	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::Grid$/;"	c
+GridPosition	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^pub struct GridPosition {$/;"	s
+Group	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    type Group: ActionGroupName;$/;"	t	interface:ActionName
+Increment	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    Increment,$/;"	e	enum:AppMsg
+IndexedData	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl<T> IndexedData<T> {$/;"	c
+IndexedData	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^struct IndexedData<T> {$/;"	s
+Item	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    type Item = &'a Data;$/;"	t	implementation:Iter
+Iter	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl<'a, Data> std::iter::Iterator for Iter<'a, Data> {$/;"	c
+Iter	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^pub struct Iter<'a, Data> {$/;"	s
+Key	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    type Key = usize;$/;"	t
+Key	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    type Key = DynamicIndex;$/;"	t
+Key	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Key: ?Sized;$/;"	t	interface:Factory
+Leaflet	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryListView<Widget> for adw::Leaflet$/;"	c
+Leaflet	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryView<Widget> for adw::Leaflet$/;"	c
+ListBox	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryListView<Widget> for gtk::ListBox$/;"	c
+ListBox	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::ListBox$/;"	c
+MessageHandler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait MessageHandler<ParentModel: Model> {$/;"	i
+MicroComponent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^impl<Model> MicroComponent<Model>$/;"	c
+MicroComponent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^pub struct MicroComponent<Model: MicroModel> {$/;"	s
+MicroComponentError	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^impl Display for MicroComponentError {$/;"	c
+MicroComponentError	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^impl From<BorrowError> for MicroComponentError {$/;"	c
+MicroComponentError	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^impl From<BorrowMutError> for MicroComponentError {$/;"	c
+MicroComponentError	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^pub enum MicroComponentError {$/;"	g
+MicroModel	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^pub trait MicroModel {$/;"	i
+MicroWidgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^pub trait MicroWidgets<Model: MicroModel + ?Sized> {$/;"	i
+Model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^impl Model for () {$/;"	c
+Model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait Model: std::marker::Sized {$/;"	i
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        type Msg = TestMsg;$/;"	t	implementation:tests::TestData
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Msg;$/;"	t	interface:FactoryPrototype
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    type Msg: 'static;$/;"	t	interface:MicroModel
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    type Msg = ();$/;"	t	implementation:Model
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Msg: 'static;$/;"	t	interface:Model
+Msg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Msg;$/;"	t	interface:MessageHandler
+Msg	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    type Msg = AppMsg;$/;"	t	implementation:AppModel
+Paned	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^impl<Widget> FactoryListView<Widget> for panel::Paned$/;"	c
+Paned	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^impl<Widget> FactoryView<Widget> for panel::Paned$/;"	c
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Position;$/;"	t	interface:FactoryView
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Position = ();$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Position = StackPageInfo;$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Position = TabPageInfo;$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Position = ();$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Position = ();$/;"	t	implementation:TreeView
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Position = FixedPosition;$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Position = GridPosition;$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Position = StackPageInfo;$/;"	t
+Position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    type Position = ();$/;"	t
+Recreate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    Recreate,$/;"	e	enum:ChangeType
+Recreate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    Recreate,$/;"	e	enum:ChangeType
+RelmAction	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^impl<Name: ActionName> RelmAction<Name>$/;"	c
+RelmAction	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^pub struct RelmAction<Name: ActionName> {$/;"	s
+RelmActionGroup	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^impl<GroupName: ActionGroupName> Default for RelmActionGroup<GroupName> {$/;"	c
+RelmActionGroup	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^impl<GroupName: ActionGroupName> RelmActionGroup<GroupName> {$/;"	c
+RelmActionGroup	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^pub struct RelmActionGroup<GroupName: ActionGroupName> {$/;"	s
+RelmApp	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^impl<Model> RelmApp<Model>$/;"	c
+RelmApp	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^pub struct RelmApp<Model>$/;"	s
+RelmComponent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^impl<Model, ParentModel> RelmComponent<Model, ParentModel>$/;"	c
+RelmComponent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^pub struct RelmComponent<Model, ParentModel>$/;"	s
+RelmMsgHandler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^impl<Data, ParentModel> RelmMsgHandler<Data, ParentModel>$/;"	c
+RelmMsgHandler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^pub struct RelmMsgHandler<Data, ParentModel>$/;"	s
+RelmWorker	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^impl<Model, ParentModel> RelmWorker<Model, ParentModel>$/;"	c
+RelmWorker	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^pub struct RelmWorker<Model, ParentModel>$/;"	s
+Remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    Remove,$/;"	e	enum:ChangeType
+Remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    Remove(u16),$/;"	e	enum:ChangeType
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Root: WidgetExt;$/;"	t	interface:FactoryPrototype
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Root: std::fmt::Debug;$/;"	t	interface:FactoryView
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Root = Widget;$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Root = adw::LeafletPage;$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    type Root = adw::TabPage;$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Root = Widget;$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    type Root = gtk::TreeViewColumn;$/;"	t	implementation:TreeView
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    type Root = Widget;$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    type Root: std::fmt::Debug;$/;"	t	interface:MicroWidgets
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    type Root = ();$/;"	t
+Root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Root: std::fmt::Debug;$/;"	t	interface:Widgets
+Sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Sender;$/;"	t	interface:MessageHandler
+Stack	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl<Widget> FactoryView<Widget> for gtk::Stack$/;"	c
+StackPageInfo	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^pub struct StackPageInfo {$/;"	s
+State	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    type State;$/;"	t	interface:ActionName
+Surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^impl Surface {$/;"	c
+Surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^struct Surface {$/;"	s
+T	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    impl<T: IsA<gtk::Widget>> BoxExt for T {$/;"	c	module:tests
+T	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/mod.rs	/^impl<T: AsRef<Widget>> WidgetRef for T {$/;"	c
+TEST_THREAD_WORKER	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^static TEST_THREAD_WORKER: once_cell::sync::Lazy<gtk::glib::ThreadPool> =$/;"	v
+TabPageInfo	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^pub struct TabPageInfo {$/;"	s
+TabView	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryListView<Widget> for adw::TabView$/;"	c
+TabView	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryView<Widget> for adw::TabView$/;"	c
+Target	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    type Target;$/;"	t	interface:ActionName
+Target	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    type Target = Context;$/;"	t	implementation:DrawContext
+TestData	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    impl FactoryPrototype for TestData {$/;"	c	module:tests
+TestData	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    struct TestData(u8);$/;"	s	module:tests
+TestMsg	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    enum TestMsg {}$/;"	g	module:tests
+TreeView	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^impl FactoryView<gtk::TreeViewColumn> for gtk::TreeView {$/;"	c
+Unchanged	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    Unchanged,$/;"	e	enum:ChangeType
+Update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    Update,$/;"	e	enum:ChangeType
+Update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    Update,$/;"	e	enum:ChangeType
+View	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        type View = gtk::Box;$/;"	t	implementation:tests::TestData
+View	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type View: FactoryView<Self::Root>;$/;"	t	interface:FactoryPrototype
+ViewStack	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^impl<Widget> FactoryView<Widget> for adw::ViewStack$/;"	c
+W	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^impl<W: gtk::prelude::ActionableExt> ActionablePlus for W {$/;"	c
+W	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^impl<W: gtk::prelude::GtkApplicationExt> AccelsPlus for W {$/;"	c
+W	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^impl<W: IsA<Widget> + WidgetExt> WidgetPlus for W {$/;"	c
+WeakDynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl Clone for WeakDynamicIndex {$/;"	c
+WeakDynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^impl WeakDynamicIndex {$/;"	c
+WeakDynamicIndex	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^pub struct WeakDynamicIndex {$/;"	s
+WidgetPlus	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^pub trait WidgetPlus {$/;"	i
+WidgetRef	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/mod.rs	/^pub trait WidgetRef {$/;"	i
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        type Widgets = FactoryWidgets;$/;"	t	implementation:tests::TestData
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^impl<WidgetsType: Debug, Root: Debug> Debug for Widgets<WidgetsType, Root> {$/;"	c
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^struct Widgets<Widgets: Debug, Root: Debug> {$/;"	s
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    type Widgets: std::fmt::Debug;$/;"	t	interface:FactoryPrototype
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    type Widgets: MicroWidgets<Self> + Debug;$/;"	t	interface:MicroModel
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    type Widgets = ();$/;"	t	implementation:Model
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^impl<ModelType, ParentModel> Widgets<ModelType, ParentModel> for ()$/;"	c
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    type Widgets;$/;"	t	interface:Model
+Widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^pub trait Widgets<ModelType, ParentModel>$/;"	i
+Widgets	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    type Widgets = AppWidgets;$/;"	t	implementation:AppModel
+action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    action: gio::SimpleAction,$/;"	m	struct:RelmAction
+action_name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn action_name() -> String {$/;"	P	interface:ActionName
+actions	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub mod actions;$/;"	n
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn add(&self, widget: &Widget, position: &Self::Position) -> Self::Root;$/;"	P	interface:FactoryView
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn add(&self, widget: &Widget, _position: &()) -> adw::LeafletPage {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn add(&self, widget: &Widget, _position: &Self::Position) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn add(&self, widget: &Widget, position: &StackPageInfo) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn add(&self, widget: &Widget, position: &TabPageInfo) -> adw::TabPage {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn add(&self, widget: &Widget, _position: &()) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn add(&self, widget: &Widget, position: &FixedPosition) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn add(&self, widget: &Widget, position: &GridPosition) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn add(&self, widget: &Widget, position: &StackPageInfo) -> Widget {$/;"	f
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn add(&self, widget: &gtk::TreeViewColumn, _position: &()) -> gtk::TreeViewColumn {$/;"	P	implementation:TreeView
+add	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    fn add(&self, widget: &Widget, _position: &Self::Position) -> Widget {$/;"	f
+add_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn add_action<Name: ActionName>(&self, action: RelmAction<Name>) {$/;"	P	implementation:RelmActionGroup
+add_change	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn add_change(&mut self, change: Change) {$/;"	f
+adwaita	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/mod.rs	/^mod adwaita;$/;"	n
+all_state_transitions	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn all_state_transitions() {$/;"	f	module:tests
+all_states_generated	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn all_states_generated() {$/;"	f	module:tests
+app	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    app: Application,$/;"	m	struct:RelmApp
+app	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod app;$/;"	n
+apply	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn apply(&mut self, other: ChangeType) {$/;"	P	implementation:ChangeType
+as_slice	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn as_slice(&self) -> &[Data] {$/;"	f
+changes	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    changes: RefCell<BTreeMap<usize, ChangeType>>,$/;"	m	struct:FactoryVec
+changes	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    changes: RefCell<Vec<Change>>,$/;"	m	struct:FactoryVecDeque
+child_texts	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn child_texts(view: &gtk::Box) -> Vec<String> {$/;"	f	module:tests
+children	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        fn children<R: IsA<gtk::Widget>>(&self) -> Vec<R> {$/;"	P	implementation:tests::T
+children	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        fn children<R: IsA<gtk::Widget>>(&self) -> Vec<R>;$/;"	P	interface:tests::BoxExt
+clear	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn clear(&mut self) {$/;"	f
+clear	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn clear(&mut self) {$/;"	f
+clone	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn clone(&self) -> Self {$/;"	P	implementation:DynamicIndex
+clone	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn clone(&self) -> Self {$/;"	P	implementation:WeakDynamicIndex
+collections	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub mod collections;$/;"	n
+column	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub column: i32,$/;"	m	struct:GridPosition
+compile_changes	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn compile_changes(&self) -> Vec<ChangeType> {$/;"	f
+component	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod component;$/;"	n
+components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    components: Rc<RefCell<Model::Components>>,$/;"	m	struct:RelmComponent
+connect_parent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn connect_parent(&mut self, parent_widgets: &ParentModel::Widgets) {$/;"	f
+connect_parent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn connect_parent(&mut self, _parent_widget: &ParentModel::Widgets) {}$/;"	P	implementation:Components
+connect_parent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn connect_parent(&mut self, _parent_widgets: &ParentModel::Widgets) {}$/;"	f
+connect_parent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn connect_parent(&mut self, _parent_widgets: &ParentModel::Widgets) {}$/;"	P	interface:Widgets
+connect_parent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn connect_parent(&mut self, _parent_widgets: &ParentModel::Widgets);$/;"	P	interface:Components
+context	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    context: Context,$/;"	m	struct:DrawContext
+counter	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    counter: u8,$/;"	m	struct:AppModel
+current_index	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn current_index(&self) -> usize {$/;"	P	implementation:DynamicIndex
+data	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    data: Vec<Data>,$/;"	m	struct:FactoryVec
+data	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    data: VecDeque<IndexedData<Data>>,$/;"	m	struct:FactoryVecDeque
+data	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^    data: Data,$/;"	m	struct:RelmMsgHandler
+data_consistent	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn data_consistent() {$/;"	f	module:tests
+decrement	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn decrement(&self) {$/;"	P	implementation:DynamicIndex
+default	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    fn default() -> Self {$/;"	P	implementation:RelmActionGroup
+deref	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn deref(&self) -> &Self::Target {$/;"	P	implementation:DrawContext
+downgrade	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn downgrade(&self) -> WeakDynamicIndex {$/;"	P	implementation:DynamicIndex
+draw_area	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    draw_area: Option<gtk::DrawingArea>,$/;"	m	struct:DrawHandler
+draw_area	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    draw_area: gtk::DrawingArea,$/;"	m	struct:DrawContext
+draw_surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    draw_surface: Surface,$/;"	m	struct:DrawContext
+draw_surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    draw_surface: Surface,$/;"	m	struct:DrawHandler
+drawing	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub mod drawing;$/;"	n
+drop	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn drop(&mut self) {$/;"	P	implementation:DrawContext
+edit_surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    edit_surface: ImageSurface,$/;"	m	struct:DrawContext
+edit_surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    edit_surface: ImageSurface,$/;"	m	struct:DrawHandler
+factory	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub mod factory;$/;"	n
+factory_vec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^mod factory_vec;$/;"	n
+factory_vec_deque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^mod factory_vec_deque;$/;"	n
+fmt	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {$/;"	P	implementation:Widgets
+fmt	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {$/;"	P	implementation:MicroComponentError
+from	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn from(err: BorrowError) -> Self {$/;"	P	implementation:MicroComponentError
+from	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn from(err: BorrowMutError) -> Self {$/;"	P	implementation:MicroComponentError
+from_vec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn from_vec(data: Vec<Data>) -> Self {$/;"	f
+from_vec_deque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn from_vec_deque(data: VecDeque<Data>) -> Self {$/;"	f
+generate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn generate(&self, view: &View, sender: Sender<Data::Msg>) {$/;"	f
+generate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn generate(&self, view: &View, sender: Sender<Data::Msg>) {$/;"	f
+generate	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn generate(&self, view: &View, sender: Sender<Data::Msg>);$/;"	P	interface:Factory
+get	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn get(&self) -> ImageSurface {$/;"	P	implementation:Surface
+get	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn get(&self, index: usize) -> Option<&Data> {$/;"	f
+get	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn get(&self, index: usize) -> Option<&Data> {$/;"	f
+get_context	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    pub fn get_context(&mut self) -> Result<DrawContext, cairo::Error> {$/;"	P	implementation:DrawHandler
+get_mut	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn get_mut(&mut self, index: usize) -> Option<&mut Data> {$/;"	f
+get_mut	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn get_mut(&mut self, index: usize) -> Option<&mut Data> {$/;"	f
+group	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    group: gio::SimpleActionGroup,$/;"	m	struct:RelmActionGroup
+group_name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    group_name: PhantomData<GroupName>,$/;"	m	struct:RelmActionGroup
+group_name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn group_name() -> &'static str;$/;"	P	interface:ActionGroupName
+gtk4	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/mod.rs	/^mod gtk4;$/;"	n
+gtk_application	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub fn gtk_application() -> Application {$/;"	f
+height	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub height: i32,$/;"	m	struct:GridPosition
+impls	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^mod impls;$/;"	n
+increment	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn increment(&self) {$/;"	P	implementation:DynamicIndex
+index	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    index: Rc<DynamicIndex>,$/;"	m	struct:IndexedData
+index	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    index: usize,$/;"	m	struct:Change
+init	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^fn init() {$/;"	f
+init	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    pub fn init(&mut self, draw_area: &gtk::DrawingArea) {$/;"	P	implementation:DrawHandler
+init	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn init(parent_model: &ParentModel, parent_sender: Sender<ParentModel::Msg>) -> Self;$/;"	P	interface:MessageHandler
+init_components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn init_components(_parent_model: &ParentModel, _sender: Sender<ParentModel::Msg>) {}$/;"	P	implementation:Components
+init_components	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn init_components(parent_model: &ParentModel, parent_sender: Sender<ParentModel::Msg>)$/;"	P	interface:Components
+init_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn init_model(parent_model: &ParentModel) -> Self;$/;"	P	interface:AsyncComponentUpdate
+init_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn init_model(parent_model: &ParentModel) -> Self;$/;"	P	interface:ComponentUpdate
+init_view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn init_view($/;"	P	interface:FactoryPrototype
+init_view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn init_view(model: &Model, sender: Sender<Model::Msg>) -> Self;$/;"	P	interface:MicroWidgets
+init_view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn init_view($/;"	f
+init_view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn init_view($/;"	P	interface:Widgets
+inline_css	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn inline_css(&self, style_data: &[u8]) {$/;"	P	implementation:W
+inline_css	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn inline_css(&self, style_data: &[u8]);$/;"	P	interface:WidgetPlus
+inner	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    inner: Fragile<Rc<RefCell<usize>>>,$/;"	m	struct:DynamicIndex
+inner	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    inner: Fragile<Weak<RefCell<usize>>>,$/;"	m	struct:WeakDynamicIndex
+inner	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    inner: T,$/;"	m	struct:IndexedData
+inner	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    inner: std::collections::vec_deque::Iter<'a, IndexedData<Data>>,$/;"	m	struct:Iter
+insert	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn insert(&mut self, index: usize, data: Data) {$/;"	f
+insert_after	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn insert_after(&self, widget: &Widget, other: &Self::Root) -> Self::Root;$/;"	P	interface:FactoryListView
+insert_after	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn insert_after(&self, widget: &Widget, other: &adw::LeafletPage) -> adw::LeafletPage {$/;"	f
+insert_after	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn insert_after(&self, widget: &Widget, other: &adw::TabPage) -> adw::TabPage {$/;"	f
+insert_after	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn insert_after(&self, widget: &Widget, other: &Widget) -> Widget {$/;"	f
+insert_after	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    fn insert_after(&self, widget: &Widget, other: &Widget) -> Widget {$/;"	f
+into_action_group	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn into_action_group(self) -> gio::SimpleActionGroup {$/;"	P	implementation:RelmActionGroup
+into_vec	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn into_vec(self) -> Vec<Data> {$/;"	f
+into_vec_deque	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn into_vec_deque(mut self) -> VecDeque<Data> {$/;"	f
+is_connected	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn is_connected(&self) -> bool {$/;"	f
+is_empty	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn is_empty(&self) -> bool {$/;"	f
+is_empty	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn is_empty(&self) -> bool {$/;"	f
+iter	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn iter(&self) -> std::slice::Iter<'_, Data> {$/;"	f
+iter	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn iter(&self) -> Iter<'_, Data> {$/;"	f
+len	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        fn len(&self) -> usize {$/;"	P	implementation:tests::T
+len	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        fn len(&self) -> usize;$/;"	P	interface:tests::BoxExt
+len	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn len(&self) -> usize {$/;"	f
+len	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn len(&self) -> usize {$/;"	f
+main	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^fn main() {$/;"	f
+micro_component	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod micro_component;$/;"	n
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    model: PhantomData<Model>,$/;"	m	struct:RelmApp
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    model: PhantomData<Model>,$/;"	m	struct:RelmComponent
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    model: Rc<RefCell<Model>>,$/;"	m	struct:MicroComponent
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn model(&self) -> Result<Ref<'_, Model>, BorrowError> {$/;"	f
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    model: PhantomData<Model>,$/;"	m	struct:AsyncRelmWorker
+model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    model: PhantomData<Model>,$/;"	m	struct:RelmWorker
+model_mut	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn model_mut(&self) -> Result<RefMut<'_, Model>, BorrowMutError> {$/;"	f
+msg_handler	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod msg_handler;$/;"	n
+name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    name: PhantomData<Name>,$/;"	m	struct:RelmAction
+name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn name() -> &'static str;$/;"	P	interface:ActionName
+name	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub name: Option<String>,$/;"	m	struct:StackPageInfo
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn new() -> Self {$/;"	P	implementation:RelmActionGroup
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    pub fn new(model: Model) -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn new(parent_model: &ParentModel, parent_sender: Sender<ParentModel::Msg>) -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn new($/;"	P	implementation:DrawContext
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn new(surface: ImageSurface) -> Self {$/;"	P	implementation:Surface
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    pub fn new() -> Result<Self, cairo::Error> {$/;"	P	implementation:DrawHandler
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn new() -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn new(data: T, index: usize) -> Self {$/;"	P	implementation:IndexedData
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn new(index: usize) -> Self {$/;"	P	implementation:DynamicIndex
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn new(index: usize, ty: ChangeType) -> Self {$/;"	P	implementation:Change
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn new() -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn new(model: Model, data: Model::Data) -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^    pub fn new(parent_model: &ParentModel, parent_sender: Sender<ParentModel::Msg>) -> Self {$/;"	f
+new	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    pub fn new(parent_model: &ParentModel, parent_sender: Sender<ParentModel::Msg>) -> Self {$/;"	f
+new_action_group	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^macro_rules! new_action_group {$/;"	M
+new_stateful	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn new_stateful<Callback: Fn(&gio::SimpleAction, &mut Name::State) + 'static>($/;"	f
+new_stateful_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^macro_rules! new_stateful_action {$/;"	M
+new_stateful_with_target_value	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn new_stateful_with_target_value<$/;"	f
+new_stateless	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn new_stateless<Callback: Fn(&gio::SimpleAction) + 'static>(callback: Callback) -> Self/;"	f
+new_stateless_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^macro_rules! new_stateless_action {$/;"	M
+new_with_target_value	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn new_with_target_value<Callback: Fn(&gio::SimpleAction, Name::Target) + 'static>($/;"	f
+next	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    fn next(&mut self) -> Option<Self::Item> {$/;"	P	implementation:Iter
+panel	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/mod.rs	/^mod panel;$/;"	n
+parent_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    parent_model: PhantomData<ParentModel>,$/;"	m	struct:RelmComponent
+parent_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^    parent_model: PhantomData<ParentModel>,$/;"	m	struct:RelmMsgHandler
+parent_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    parent_model: PhantomData<ParentModel>,$/;"	m	struct:AsyncRelmWorker
+parent_model	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    parent_model: PhantomData<ParentModel>,$/;"	m	struct:RelmWorker
+pop	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn pop(&mut self) -> Option<Data> {$/;"	f
+pop_back	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn pop_back(&mut self) -> Option<Data> {$/;"	f
+pop_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn pop_front(&mut self) -> Option<Data> {$/;"	f
+position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^        fn position(&self, _index: &usize) {}$/;"	P	implementation:tests::TestData
+position	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn position($/;"	P	interface:FactoryPrototype
+positions	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^pub mod positions;$/;"	n
+push	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    pub fn push(&mut self, data: Data) {$/;"	f
+push_back	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn push_back(&mut self, data: Data) {$/;"	f
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn push_front(&mut self, data: Data) {$/;"	f
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn push_front(&self, widget: &Widget) -> Self::Root;$/;"	P	interface:FactoryListView
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn push_front(&self, widget: &Widget) -> adw::LeafletPage {$/;"	f
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn push_front(&self, widget: &Widget) -> adw::TabPage {$/;"	f
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn push_front(&self, widget: &Widget) -> Widget {$/;"	f
+push_front	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    fn push_front(&self, widget: &Widget) -> Widget {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn remove(&mut self, index: usize) -> Option<Data> {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn remove(&self, widget: &Self::Root);$/;"	P	interface:FactoryView
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn remove(&self, widget: &Widget) {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn remove(&self, widget: &adw::LeafletPage) {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/adwaita.rs	/^    fn remove(&self, widget: &adw::TabPage) {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn remove(&self, widget: &Widget) {$/;"	f
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/gtk4.rs	/^    fn remove(&self, widget: &gtk::TreeViewColumn) {$/;"	P	implementation:TreeView
+remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/widgets/panel.rs	/^    fn remove(&self, widget: &Widget) {$/;"	f
+root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^    root: Root,$/;"	m	struct:Widgets
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn root_widget(&self) -> &<Model::Widgets as WidgetsTrait<Model, ParentModel>>::Root {$/;"	f
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    root_widget: <Model::Widgets as WidgetsTrait<Model, ParentModel>>::Root,$/;"	m	struct:RelmComponent
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn root_widget(widgets: &Self::Widgets) -> &Self::Root;$/;"	P	interface:FactoryPrototype
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn root_widget(&self) -> Self::Root;$/;"	P	interface:MicroWidgets
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn root_widget(&self) -> &<Model::Widgets as MicroWidgets<Model>>::Root {$/;"	f
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    root_widget: <Model::Widgets as MicroWidgets<Model>>::Root,$/;"	m	struct:MicroComponent
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn root_widget(&self) -> Self::Root {}$/;"	f
+root_widget	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn root_widget(&self) -> Self::Root;$/;"	P	interface:Widgets
+row	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub row: i32,$/;"	m	struct:GridPosition
+run	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    pub fn run(&self) {$/;"	f
+run_with_args	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    pub fn run_with_args<S>(&self, args: &[S])$/;"	f
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn send(&self, msg: Model::Msg) -> Result<(), std::sync::mpsc::SendError<Model::Msg>> {$/;"	f
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^macro_rules! send {$/;"	M
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn send(&self, msg: Model::Msg) -> Result<(), std::sync::mpsc::SendError<Model::Msg>> {$/;"	f
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^    pub fn send(&self, msg: Data::Msg) {$/;"	f
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn send(&self, msg: Self::Msg);$/;"	P	interface:MessageHandler
+send	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    pub fn send(&self, msg: Model::Msg) -> Result<(), std::sync::mpsc::SendError<Model::Msg>> {$/;"	f
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn sender(&self) -> Sender<Model::Msg> {$/;"	f
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    sender: Sender<Model::Msg>,$/;"	m	struct:RelmComponent
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn sender<T>() -> gtk::glib::Sender<T> {$/;"	f	module:tests
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn sender(&self) -> Sender<Model::Msg> {$/;"	f
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    sender: Sender<Model::Msg>,$/;"	m	struct:MicroComponent
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/msg_handler.rs	/^    pub fn sender(&self) -> Data::Sender {$/;"	f
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn sender(&self) -> Self::Sender;$/;"	P	interface:MessageHandler
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    sender: Sender<Model::Msg>,$/;"	m	struct:AsyncRelmWorker
+sender	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    sender: Sender<Model::Msg>,$/;"	m	struct:RelmWorker
+set	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    fn set(&self, surface: &ImageSurface) {$/;"	P	implementation:Surface
+set_accelerators_for_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_accelerators_for_action<A: ActionName>(&self, accel_codes: &[&str])$/;"	P	implementation:W
+set_accelerators_for_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_accelerators_for_action<A: ActionName>(&self, value: &[&str])$/;"	P	interface:AccelsPlus
+set_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_action<A: ActionName>(&self, value: A::Target)$/;"	P	implementation:W
+set_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_action<A: ActionName>(&self, value: A::Target)$/;"	P	interface:ActionablePlus
+set_change	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn set_change(&self, index: usize, change: Option<ChangeType>) {$/;"	f
+set_class_active	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn set_class_active(&self, class: &str, active: bool) {$/;"	P	implementation:W
+set_class_active	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn set_class_active(&self, class: &str, active: bool);$/;"	P	interface:WidgetPlus
+set_global_css	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub fn set_global_css(style_data: &[u8]) {$/;"	f
+set_global_css_from_file	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub fn set_global_css_from_file<P: AsRef<std::path::Path>>(path: P) {$/;"	f
+set_margin_all	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn set_margin_all(&self, margin: i32) {$/;"	P	implementation:W
+set_margin_all	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn set_margin_all(&self, margin: i32);$/;"	P	interface:WidgetPlus
+set_stateless_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_stateless_action<A: ActionName>(&self, _unit_type: &())$/;"	P	implementation:W
+set_stateless_action	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/traits.rs	/^    fn set_stateless_action<A: ActionName>(&self, unit_type: &())$/;"	P	interface:ActionablePlus
+shared_widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    shared_widgets: Rc<RefCell<Model::Widgets>>,$/;"	m	struct:RelmComponent
+simple_changes	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn simple_changes() {$/;"	f	module:tests
+spawn_future	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub fn spawn_future<F: futures_core::future::Future<Output = ()> + Send + 'static>(f: F) {$/;"	f
+surface	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/drawing.rs	/^    surface: Rc<RefCell<ImageSurface>>,$/;"	m	struct:Surface
+test_synced	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^fn test_synced<F, R>(function: F) -> R$/;"	f
+tests	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^mod tests {$/;"	n
+title	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub title: Option<String>,$/;"	m	struct:StackPageInfo
+title	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub title: Option<String>,$/;"	m	struct:TabPageInfo
+to_menu_item	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn to_menu_item(label: &str) -> gio::MenuItem {$/;"	f
+to_menu_item_with_target_value	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^    pub fn to_menu_item_with_target_value($/;"	f
+tooltip	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub tooltip: Option<String>,$/;"	m	struct:TabPageInfo
+traits	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/actions/mod.rs	/^pub mod traits;$/;"	n
+traits	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod traits;$/;"	n
+try_diconnect_root	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn try_diconnect_root(&self) -> bool {$/;"	f
+try_remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn try_remove(&self, widget: &impl IsA<Widget>) -> bool {$/;"	P	implementation:W
+try_remove	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/widget_plus.rs	/^    fn try_remove(&self, widget: &impl IsA<Widget>) -> bool;$/;"	P	interface:WidgetPlus
+ty	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    ty: ChangeType,$/;"	m	struct:Change
+unrealized_replace	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn unrealized_replace() {$/;"	f	module:tests
+update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn update(&mut self, msg: Self::Msg, data: &Self::Data, sender: Sender<Self::Msg>);$/;"	P	interface:MicroModel
+update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    async fn update($/;"	P	interface:AsyncComponentUpdate
+update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn update($/;"	P	interface:AppUpdate
+update	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn update($/;"	P	interface:ComponentUpdate
+update	/home/actuday/dev/prayingkerala/admin/src/main.rs	/^    fn update(&mut self, msg: AppMsg, _components: &(), _sender: Sender<AppMsg>) -> bool {$/;"	P	implementation:AppModel
+update_view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn update_view(&self) -> Result<(), MicroComponentError> {$/;"	f
+upgrade	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    pub fn upgrade(&self) -> Option<DynamicIndex> {$/;"	P	implementation:WeakDynamicIndex
+util	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^pub mod util;$/;"	n
+view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^    fn view($/;"	P	interface:FactoryPrototype
+view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    fn view(&mut self, model: &Model, sender: Sender<Model::Msg>);$/;"	P	interface:MicroWidgets
+view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/impls.rs	/^    fn view(&mut self, _model: &ModelType, _sender: Sender<ModelType::Msg>) {}$/;"	f
+view	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/traits/mod.rs	/^    fn view(&mut self, model: &ModelType, sender: Sender<ModelType::Msg>);$/;"	P	interface:Widgets
+widget_plus	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/mod.rs	/^pub mod widget_plus;$/;"	n
+widget_ref	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/mod.rs	/^    fn widget_ref(&self) -> &Widget {$/;"	P	implementation:T
+widget_ref	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/util/mod.rs	/^    fn widget_ref(&self) -> &Widget;$/;"	P	interface:WidgetRef
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/component.rs	/^    pub fn widgets(&self) -> Option<RefMut<'_, Model::Widgets>> {$/;"	f
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    widgets: RefCell<Vec<Widgets<Data::Widgets, <Data::View as FactoryView<Data::Root>>::Root>>>/;"	m	struct:FactoryVec
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec_deque.rs	/^    widgets:$/;"	m	struct:FactoryVecDeque
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/mod.rs	/^    widgets: Widgets,$/;"	m	struct:Widgets
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/mod.rs	/^mod widgets;$/;"	n
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    pub fn widgets(&self) -> Result<RefMut<'_, Model::Widgets>, BorrowMutError> {$/;"	f
+widgets	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/micro_component.rs	/^    widgets: Rc<RefCell<Model::Widgets>>,$/;"	m	struct:MicroComponent
+width	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub width: i32,$/;"	m	struct:GridPosition
+with_app	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/app.rs	/^    pub fn with_app(mut model: Model, app: Application) -> Self {$/;"	f
+with_new_thread	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    pub fn with_new_thread($/;"	f
+with_new_tokio_rt	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/worker.rs	/^    pub fn with_new_tokio_rt($/;"	f
+worker	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/lib.rs	/^mod worker;$/;"	n
+wrap	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/collections/factory_vec.rs	/^    fn wrap(data: &[u8]) -> Vec<TestData> {$/;"	f	module:tests
+x	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub x: f64,$/;"	m	struct:FixedPosition
+y	/home/actuday/.cargo/registry/src/github.com-1ecc6299db9ec823/relm4-0.4.4/src/factory/positions.rs	/^    pub y: f64,$/;"	m	struct:FixedPosition
